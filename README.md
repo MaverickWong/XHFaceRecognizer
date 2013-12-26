@@ -10,6 +10,10 @@ XHFaceRecognizer 是一款耦合性很低，复用性很好的人脸检测组件
   4.支持 cocoapods 安装；    
   5.支持 block 回调人脸模型；     
   6.放大镜选择眼睛和嘴巴的位置
+  
+![image](https://github.com/JackTeam/XHFaceRecognizerSDKSimple/raw/master/Screenshots/监测中.png)
+![image](https://github.com/JackTeam/XHFaceRecognizerSDKSimple/raw/master/Screenshots/监测出来.png)
+![image](https://github.com/JackTeam/XHFaceRecognizerSDKSimple/raw/master/Screenshots/裁剪.png)
 
 
 ## 开源模式
